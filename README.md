@@ -1,1 +1,1 @@
-# Test-free-India-IPTV confirmed to be working
+# India IPTV confirmed to be working
