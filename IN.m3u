@@ -1,0 +1,19 @@
+#EXTM3U
+
+
+#EXTINF:0,*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0,https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0,*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0,https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0,PICTURE | HD
+https://z5ams.akamaized.net/andpicshd/tracks-v2a1/index.m3u8
+#EXTINF:0,THE WOMAN UNIT 23B | SD
+http://egyman.net:1978/live/1997/1997/6217.m3u8
+#EXTINF:0,TREMORS A COLD DAY HELL | SD
+http://egyman.net:1978/live/1997/1997/6200.m3u8
+#EXTINF:0,ZEE AMMOL | SD
+http://izgemma.ddns.net:8000/live/chief/chief/11311.m3u8
