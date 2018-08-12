@@ -1,19 +1,504 @@
 #EXTM3U
-
-
-#EXTINF:0,*** AutoIPTV ***
-https://autoiptv.net
-#EXTINF:0,https://autoiptv.net
-https://autoiptv.net
-#EXTINF:0,*** Playlists ***
-https://autoiptv.net/playlists
-#EXTINF:0,https://autoiptv.net/playlists
-https://autoiptv.net/playlists
-#EXTINF:0,PICTURE | HD
-https://z5ams.akamaized.net/andpicshd/tracks-v2a1/index.m3u8
-#EXTINF:0,THE WOMAN UNIT 23B | SD
-http://egyman.net:1978/live/1997/1997/6217.m3u8
-#EXTINF:0,TREMORS A COLD DAY HELL | SD
-http://egyman.net:1978/live/1997/1997/6200.m3u8
-#EXTINF:0,ZEE AMMOL | SD
-http://izgemma.ddns.net:8000/live/chief/chief/11311.m3u8
+#EXTINF:0,------INDIA------
+http://redhot.tech:80/live/Mat2/SSvfm079En/29046.ts
+#EXTINF:0,(IN)  ARY MUSIQ
+http://redhot.tech:80/live/Mat2/SSvfm079En/33556.ts
+#EXTINF:0,(IN) & Pictures HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/33523.ts
+#EXTINF:0,(IN) & tv HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/33540.ts
+#EXTINF:0,(IN) 9X JALWA
+http://redhot.tech:80/live/Mat2/SSvfm079En/33524.ts
+#EXTINF:0,(IN) 9X JHAKAAS
+http://redhot.tech:80/live/Mat2/SSvfm079En/33525.ts
+#EXTINF:0,(IN) 9X TASHAN
+http://redhot.tech:80/live/Mat2/SSvfm079En/33526.ts
+#EXTINF:0,(IN) 9xM
+http://redhot.tech:80/live/Mat2/SSvfm079En/33522.ts
+#EXTINF:0,(IN) Aaj Tak
+http://redhot.tech:80/live/Mat2/SSvfm079En/33521.ts
+#EXTINF:0,(IN) Aajtak
+http://redhot.tech:80/live/Mat2/SSvfm079En/33564.ts
+#EXTINF:0,(IN) ABP News
+http://redhot.tech:80/live/Mat2/SSvfm079En/33520.ts
+#EXTINF:0,(IN) AKAAL TV
+http://redhot.tech:80/live/Mat2/SSvfm079En/33463.ts
+#EXTINF:0,(IN) AONE PUNJABI
+http://redhot.tech:80/live/Mat2/SSvfm079En/33527.ts
+#EXTINF:0,(IN) Ary QTV
+http://redhot.tech:80/live/Mat2/SSvfm079En/33519.ts
+#EXTINF:0,(IN) ARY Zindal
+http://redhot.tech:80/live/Mat2/SSvfm079En/33557.ts
+#EXTINF:0,(IN) Asia Net Plus
+http://redhot.tech:80/live/Mat2/SSvfm079En/33518.ts
+#EXTINF:0,(IN) B4U Movie
+http://redhot.tech:80/live/Mat2/SSvfm079En/33558.ts
+#EXTINF:0,(IN) B4U Movies
+http://redhot.tech:80/live/Mat2/SSvfm079En/33517.ts
+#EXTINF:0,(IN) B4U Music
+http://redhot.tech:80/live/Mat2/SSvfm079En/33559.ts
+#EXTINF:0,(IN) B4U PLUS
+http://redhot.tech:80/live/Mat2/SSvfm079En/33560.ts
+#EXTINF:0,(IN) Bindass Play
+http://redhot.tech:80/live/Mat2/SSvfm079En/33516.ts
+#EXTINF:0,(IN) Colors
+http://redhot.tech:80/live/Mat2/SSvfm079En/33515.ts
+#EXTINF:0,(IN) COLORS HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/33561.ts
+#EXTINF:0,(IN) DESI BEATS
+http://redhot.tech:80/live/Mat2/SSvfm079En/33471.ts
+#EXTINF:0,(IN) DESI CHANNEL
+http://redhot.tech:80/live/Mat2/SSvfm079En/33528.ts
+#EXTINF:0,(IN) Discovery Channel
+http://redhot.tech:80/live/Mat2/SSvfm079En/33514.ts
+#EXTINF:0,(IN) E24
+http://redhot.tech:80/live/Mat2/SSvfm079En/33470.ts
+#EXTINF:0,(IN) GEO NEWS
+http://redhot.tech:80/live/Mat2/SSvfm079En/33569.ts
+#EXTINF:0,(IN) GEO TEZ
+http://redhot.tech:80/live/Mat2/SSvfm079En/33568.ts
+#EXTINF:0,(IN) Geo Uk
+http://redhot.tech:80/live/Mat2/SSvfm079En/33567.ts
+#EXTINF:0,(IN) Glory TV
+http://redhot.tech:80/live/Mat2/SSvfm079En/33469.ts
+#EXTINF:0,(IN) HBO
+http://redhot.tech:80/live/Mat2/SSvfm079En/33513.ts
+#EXTINF:0,(IN) Hum Europe
+http://redhot.tech:80/live/Mat2/SSvfm079En/33512.ts
+#EXTINF:0,(IN) HUM WORLD
+http://redhot.tech:80/live/Mat2/SSvfm079En/33563.ts
+#EXTINF:0,(IN) IBN 7
+http://redhot.tech:80/live/Mat2/SSvfm079En/33511.ts
+#EXTINF:0,(IN) Jaya Movies
+http://redhot.tech:80/live/Mat2/SSvfm079En/33510.ts
+#EXTINF:0,(IN) JAYA TV
+http://redhot.tech:80/live/Mat2/SSvfm079En/33529.ts
+#EXTINF:0,(IN) JayaMax
+http://redhot.tech:80/live/Mat2/SSvfm079En/33509.ts
+#EXTINF:0,(IN) Kanshi TV
+http://redhot.tech:80/live/Mat2/SSvfm079En/33468.ts
+#EXTINF:0,(IN) Life OK HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/33508.ts
+#EXTINF:0,(IN) Living Foodz
+http://redhot.tech:80/live/Mat2/SSvfm079En/33507.ts
+#EXTINF:0,(IN) MAA Gold
+http://redhot.tech:80/live/Mat2/SSvfm079En/33506.ts
+#EXTINF:0,(IN) Matrubhumi News
+http://redhot.tech:80/live/Mat2/SSvfm079En/33505.ts
+#EXTINF:0,(IN) MTA INTERNATIONAL
+http://redhot.tech:80/live/Mat2/SSvfm079En/33460.ts
+#EXTINF:0,(IN) MTV India
+http://redhot.tech:80/live/Mat2/SSvfm079En/33504.ts
+#EXTINF:0,(IN) Music India
+http://redhot.tech:80/live/Mat2/SSvfm079En/33503.ts
+#EXTINF:0,(IN) NDTV India
+http://redhot.tech:80/live/Mat2/SSvfm079En/33502.ts
+#EXTINF:0,(IN) Neo Sports
+http://redhot.tech:80/live/Mat2/SSvfm079En/33501.ts
+#EXTINF:0,(IN) PTC Punjab uk
+http://redhot.tech:80/live/Mat2/SSvfm079En/33530.ts
+#EXTINF:0,(IN) PTC PUNJABI
+http://redhot.tech:80/live/Mat2/SSvfm079En/33531.ts
+#EXTINF:0,(IN) PTV Global
+http://redhot.tech:80/live/Mat2/SSvfm079En/33566.ts
+#EXTINF:0,(IN) PTV PRIME
+http://redhot.tech:80/live/Mat2/SSvfm079En/33562.ts
+#EXTINF:0,(IN) PTV Sports
+http://redhot.tech:80/live/Mat2/SSvfm079En/33500.ts
+#EXTINF:0,(IN) RISHTEY
+http://redhot.tech:80/live/Mat2/SSvfm079En/33532.ts
+#EXTINF:0,(IN) Rishtey TV
+http://redhot.tech:80/live/Mat2/SSvfm079En/33467.ts
+#EXTINF:0,(IN) SAB TV
+http://redhot.tech:80/live/Mat2/SSvfm079En/33466.ts
+#EXTINF:0,(IN) Samaa TV
+http://redhot.tech:80/live/Mat2/SSvfm079En/33499.ts
+#EXTINF:0,(IN) SET Asia
+http://redhot.tech:80/live/Mat2/SSvfm079En/33498.ts
+#EXTINF:0,(IN) SET MAX
+http://redhot.tech:80/live/Mat2/SSvfm079En/33533.ts
+#EXTINF:0,(IN) Set Mx
+http://redhot.tech:80/live/Mat2/SSvfm079En/33538.ts
+#EXTINF:0,(IN) Sonic Nickelodeon
+http://redhot.tech:80/live/Mat2/SSvfm079En/33497.ts
+#EXTINF:0,(IN) SONY ENTERTAINMENT
+http://redhot.tech:80/live/Mat2/SSvfm079En/33534.ts
+#EXTINF:0,(IN) Sony Entertainment HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/33496.ts
+#EXTINF:0,(IN) Sony ESPN
+http://redhot.tech:80/live/Mat2/SSvfm079En/33495.ts
+#EXTINF:0,(IN) Sony HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/33539.ts
+#EXTINF:0,(IN) SONY MIX
+http://redhot.tech:80/live/Mat2/SSvfm079En/33541.ts
+#EXTINF:0,(IN) Sony Mix TV
+http://redhot.tech:80/live/Mat2/SSvfm079En/33465.ts
+#EXTINF:0,(IN) Sony Pal
+http://redhot.tech:80/live/Mat2/SSvfm079En/33494.ts
+#EXTINF:0,(IN) Sony Pix HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/33493.ts
+#EXTINF:0,(IN) Sony Sab
+http://redhot.tech:80/live/Mat2/SSvfm079En/33542.ts
+#EXTINF:0,(IN) SONY SAB Asia
+http://redhot.tech:80/live/Mat2/SSvfm079En/33543.ts
+#EXTINF:0,(IN) Sony Six HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/33492.ts
+#EXTINF:0,(IN) SONY TV HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/33535.ts
+#EXTINF:0,(IN) Star Bharat
+http://redhot.tech:80/live/Mat2/SSvfm079En/33464.ts
+#EXTINF:0,(IN) Star Gold
+http://redhot.tech:80/live/Mat2/SSvfm079En/33491.ts
+#EXTINF:0,(IN) Star Jalsha
+http://redhot.tech:80/live/Mat2/SSvfm079En/33544.ts
+#EXTINF:0,(IN) Star Life Ok
+http://redhot.tech:80/live/Mat2/SSvfm079En/33565.ts
+#EXTINF:0,(IN) STAR PLUS
+http://redhot.tech:80/live/Mat2/SSvfm079En/33536.ts
+#EXTINF:0,(IN) Star plus  HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/33545.ts
+#EXTINF:0,(IN) Star Sport 2 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/33546.ts
+#EXTINF:0,(IN) Star Sports 1 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/33490.ts
+#EXTINF:0,(IN) Star Sports 2 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/33489.ts
+#EXTINF:0,(IN) Star Sports 3 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/33488.ts
+#EXTINF:0,(IN) Star Sports 4 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/33487.ts
+#EXTINF:0,(IN) Star Vijay
+http://redhot.tech:80/live/Mat2/SSvfm079En/33486.ts
+#EXTINF:0,(IN) Sun Music
+http://redhot.tech:80/live/Mat2/SSvfm079En/33547.ts
+#EXTINF:0,(IN) Sun Tv
+http://redhot.tech:80/live/Mat2/SSvfm079En/33548.ts
+#EXTINF:0,(IN) Ten 1 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/33485.ts
+#EXTINF:0,(IN) Ten 2 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/33484.ts
+#EXTINF:0,(IN) Ten 3
+http://redhot.tech:80/live/Mat2/SSvfm079En/33483.ts
+#EXTINF:0,(IN) Ten Golf HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/33482.ts
+#EXTINF:0,(IN) Times Now
+http://redhot.tech:80/live/Mat2/SSvfm079En/33481.ts
+#EXTINF:0,(IN) UTV Movies
+http://redhot.tech:80/live/Mat2/SSvfm079En/33480.ts
+#EXTINF:0,(IN) UTV Movies US
+http://redhot.tech:80/live/Mat2/SSvfm079En/33549.ts
+#EXTINF:0,(IN) Venus
+http://redhot.tech:80/live/Mat2/SSvfm079En/33462.ts
+#EXTINF:0,(IN) Willow Cricket HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/33479.ts
+#EXTINF:0,(IN) Zee Action
+http://redhot.tech:80/live/Mat2/SSvfm079En/33550.ts
+#EXTINF:0,(IN) Zee Bangla Cinema
+http://redhot.tech:80/live/Mat2/SSvfm079En/33478.ts
+#EXTINF:0,(IN) Zee Bollywood HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/33477.ts
+#EXTINF:0,(IN) ZEE BOLYWOOD HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/33553.ts
+#EXTINF:0,(IN) Zee Business
+http://redhot.tech:80/live/Mat2/SSvfm079En/33476.ts
+#EXTINF:0,(IN) ZEE CINEMA
+http://redhot.tech:80/live/Mat2/SSvfm079En/33552.ts
+#EXTINF:0,(IN) Zee Classic
+http://redhot.tech:80/live/Mat2/SSvfm079En/33475.ts
+#EXTINF:0,(IN) Zee Living HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/33474.ts
+#EXTINF:0,(IN) Zee News
+http://redhot.tech:80/live/Mat2/SSvfm079En/33473.ts
+#EXTINF:0,(IN) Zee Punjabi
+http://redhot.tech:80/live/Mat2/SSvfm079En/33554.ts
+#EXTINF:0,(IN) Zee Tamil
+http://redhot.tech:80/live/Mat2/SSvfm079En/33555.ts
+#EXTINF:0,(IN) ZEE TV HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/33551.ts
+#EXTINF:0,(IN) Zee TV US HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/33472.ts
+#EXTINF:0,(IN) Zing
+http://redhot.tech:80/live/Mat2/SSvfm079En/33461.ts
+#EXTINF:0,(IN) ZOOM
+http://redhot.tech:80/live/Mat2/SSvfm079En/33537.ts
+#EXTINF:0,http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/49296.ts
+#EXTINF:0,IN : 9XM
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46450.ts
+#EXTINF:0,IN : AAJ TAK UK
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46448.ts
+#EXTINF:0,IN : AASTHA BHAJAN BHAKTI
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46446.ts
+#EXTINF:0,IN : ABP NEWS
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46444.ts
+#EXTINF:0,IN : AND PICTURES-HD
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46443.ts
+#EXTINF:0,IN : AND TV ME
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46440.ts
+#EXTINF:0,IN : AND TV UK
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46439.ts
+#EXTINF:0,IN : ANIMAL PLANET HINDI
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46438.ts
+#EXTINF:0,IN : COLORS TV
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46416.ts
+#EXTINF:0,IN : COLORS TV A.P
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46421.ts
+#EXTINF:0,IN : COLORS TV ME
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46418.ts
+#EXTINF:0,IN : DANGAAL TV
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46414.ts
+#EXTINF:0,IN : DARSHAN 24 BHAKTI
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46413.ts
+#EXTINF:0,IN : DD INDIA
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46411.ts
+#EXTINF:0,IN : DD NATIONAL
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46410.ts
+#EXTINF:0,IN : DD URDU
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46408.ts
+#EXTINF:0,IN : DELHI AAJTAK NEWS
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46406.ts
+#EXTINF:0,IN : DESI BEATS
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46405.ts
+#EXTINF:0,IN : DISCOVERY HINDI
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46402.ts
+#EXTINF:0,IN : DISCOVERY SCIENCE HINDI
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46401.ts
+#EXTINF:0,IN : DISCOVERY TURBO
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46400.ts
+#EXTINF:0,IN : DIVYA TV BHAKTI
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46398.ts
+#EXTINF:0,IN : E24
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46397.ts
+#EXTINF:0,IN : ENTER 10
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46396.ts
+#EXTINF:0,IN : EPIC CHANNEL
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46395.ts
+#EXTINF:0,IN : ET NOW NEWS
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46394.ts
+#EXTINF:0,IN : ETV BIHAR
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46393.ts
+#EXTINF:0,IN : ETV HARYANA
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46392.ts
+#EXTINF:0,IN : ETV MP NEWS
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46391.ts
+#EXTINF:0,IN : ETV RAJASTHAN
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46390.ts
+#EXTINF:0,IN : ETV UP NEWS
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46389.ts
+#EXTINF:0,IN : ETV URDU
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46388.ts
+#EXTINF:0,IN : FOOD FOOD
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46387.ts
+#EXTINF:0,IN : HISTORY TV18 HINDI
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46386.ts
+#EXTINF:0,IN : HOME SHOP 18
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46385.ts
+#EXTINF:0,IN : HOUSEFULL ACTION
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46384.ts
+#EXTINF:0,IN : HOUSEFULL MOVIES
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46383.ts
+#EXTINF:0,IN : IBN 7 NEWS
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46382.ts
+#EXTINF:0,IN : IBN LOKMAT NEWS
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46381.ts
+#EXTINF:0,IN : INDDOSIAR
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46377.ts
+#EXTINF:0,IN : INDIA TODAY NEWS
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46376.ts
+#EXTINF:0,IN : INDIA TV NEWS
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46375.ts
+#EXTINF:0,IN : INVEST DISCOVERY HINDI
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46378.ts
+#EXTINF:0,IN : ISHWAR TV BHAKTI
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46374.ts
+#EXTINF:0,IN : JAN TV
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46373.ts
+#EXTINF:0,IN : JINVANI TV BHAKTI
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46372.ts
+#EXTINF:0,IN : K NEWS
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46371.ts
+#EXTINF:0,IN : KASHISH NEWS
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46370.ts
+#EXTINF:0,IN : KATYAYANI BHAKTI
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46369.ts
+#EXTINF:0,IN : LIVING FOODZ USA
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46368.ts
+#EXTINF:0,IN : MAGIC BRICKS NOW
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46367.ts
+#EXTINF:0,IN : MAHA MOVIES
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46366.ts
+#EXTINF:0,IN : MASTI TV
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46364.ts
+#EXTINF:0,IN : ME TV
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46363.ts
+#EXTINF:0,IN : MOVIES OK
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46362.ts
+#EXTINF:0,IN : MTV BEATS
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46360.ts
+#EXTINF:0,IN : MTV BEATS-HD
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46361.ts
+#EXTINF:0,IN : MTV INDIA
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46359.ts
+#EXTINF:0,IN : MUSIC INDIA
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46358.ts
+#EXTINF:0,IN : NDTV 24x7 NEWS
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46356.ts
+#EXTINF:0,IN : NDTV 24x7 UK NEWS
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46355.ts
+#EXTINF:0,IN : NDTV GOODTIMES NEWS
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46354.ts
+#EXTINF:0,IN : NDTV INDIA NEWS
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46353.ts
+#EXTINF:0,IN : NDTV PRIME NEWS
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46352.ts
+#EXTINF:0,IN : NDTV PROFIT NEWS
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46351.ts
+#EXTINF:0,IN : PARAS TV BHAKTI
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46345.ts
+#EXTINF:0,IN : PEACE OF MIND BHAKTI
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46344.ts
+#EXTINF:0,IN : REPUBLIC NEWS TV
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46343.ts
+#EXTINF:0,IN : RISHTAY ASIA
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46341.ts
+#EXTINF:0,IN : RISHTAY CINEPLEX UK
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46340.ts
+#EXTINF:0,IN : RISHTEY CINEPLEX
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46339.ts
+#EXTINF:0,IN : RISHTEY EU
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46338.ts
+#EXTINF:0,IN : RISHTEY INDIA
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46337.ts
+#EXTINF:0,IN : SADHNA TV BHAKTI
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46336.ts
+#EXTINF:0,IN : SAHARA ONE
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46335.ts
+#EXTINF:0,IN : SAHARA SAMAY UP
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46329.ts
+#EXTINF:0,IN : SANATANTV BHAKTI
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46328.ts
+#EXTINF:0,IN : SANSKAR TV BHAKTI
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46327.ts
+#EXTINF:0,IN : SATSANG TV BHAKTI
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46326.ts
+#EXTINF:0,IN : SHUBHSANDESH TV BHAKTI
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46325.ts
+#EXTINF:0,IN : SONY EARTH HINDI-HD
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46324.ts
+#EXTINF:0,IN : SONY MAX 2
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46323.ts
+#EXTINF:0,IN : SONY PAL
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46321.ts
+#EXTINF:0,IN : SONY ROX-HD
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46320.ts
+#EXTINF:0,IN : SONY SAB ASIA
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46319.ts
+#EXTINF:0,IN : SONY SAB TV
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46317.ts
+#EXTINF:0,IN : SONY SAB-HD
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46318.ts
+#EXTINF:0,IN : SONY SETMAX AUS
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46315.ts
+#EXTINF:0,IN : SONY SETMAX UK
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46313.ts
+#EXTINF:0,IN : SONY SETMAX-HD
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46314.ts
+#EXTINF:0,IN : SONY TV AUS
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46311.ts
+#EXTINF:0,IN : SRI VENKATESHWAR BHAKTI
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46305.ts
+#EXTINF:0,IN : STAR BHARAT
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46300.ts
+#EXTINF:0,IN : STAR BHARAT MENA
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46302.ts
+#EXTINF:0,IN : STAR BHARAT UK
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46301.ts
+#EXTINF:0,IN : STAR BHARAT-HD
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46303.ts
+#EXTINF:0,IN : STAR PLUS
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46290.ts
+#EXTINF:0,IN : STAR PLUS AUS
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46295.ts
+#EXTINF:0,IN : STAR PLUS ME
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46293.ts
+#EXTINF:0,IN : STAR PLUS UK
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46292.ts
+#EXTINF:0,IN : STAR PLUS USA
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46291.ts
+#EXTINF:0,IN : STAR PLUS-HD
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46294.ts
+#EXTINF:0,IN : STAR UTSAV
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46288.ts
+#EXTINF:0,IN : STAR UTSAV UK
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46289.ts
+#EXTINF:0,IN : SUDARSHAN NEWS
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46287.ts
+#EXTINF:0,IN : TAAZA TV NEWS
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46286.ts
+#EXTINF:0,IN : TEZ TV
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46284.ts
+#EXTINF:0,IN : TIMES NOW NEWS
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46281.ts
+#EXTINF:0,IN : TIMES NOW-HD
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46282.ts
+#EXTINF:0,IN : TLC HINDI
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46280.ts
+#EXTINF:0,IN : TRAVEL XP HINDI
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46279.ts
+#EXTINF:0,IN : UTV BINDAAS
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46278.ts
+#EXTINF:0,IN : UTV MOVIES INTERNATIONAL
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46277.ts
+#EXTINF:0,IN : VIP NEWS
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46276.ts
+#EXTINF:0,IN : WOW CINEMA
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46275.ts
+#EXTINF:0,IN : ZEE ACTION
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46274.ts
+#EXTINF:0,IN : ZEE ANMOL
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46272.ts
+#EXTINF:0,IN : ZEE ANMOL CINEMA
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46273.ts
+#EXTINF:0,IN : ZEE BUSINESS NEWS
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46271.ts
+#EXTINF:0,IN : ZEE CINEMA
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46266.ts
+#EXTINF:0,IN : ZEE CINEMA APAC
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46270.ts
+#EXTINF:0,IN : ZEE CINEMA ME
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46268.ts
+#EXTINF:0,IN : ZEE CINEMA UK
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46267.ts
+#EXTINF:0,IN : ZEE CINEMA-HD
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46269.ts
+#EXTINF:0,IN : ZEE CLASSIC
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46265.ts
+#EXTINF:0,IN : ZEE ETC BOLLYWOOD
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46264.ts
+#EXTINF:0,IN : ZEE LIVING
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46263.ts
+#EXTINF:0,IN : ZEE NEWS
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46262.ts
+#EXTINF:0,IN : ZEE RAJASTHAN NEWS
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46261.ts
+#EXTINF:0,IN : ZEE SALAAM
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46260.ts
+#EXTINF:0,IN : ZEE TV
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46253.ts
+#EXTINF:0,IN : ZEE TV APAC
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46258.ts
+#EXTINF:0,IN : ZEE TV HD USA
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46257.ts
+#EXTINF:0,IN : ZEE TV ME
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46255.ts
+#EXTINF:0,IN : ZEE TV UK
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46254.ts
+#EXTINF:0,IN : ZEE TV-HD
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46256.ts
+#EXTINF:0,IN : ZING INDIA
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46252.ts
+#EXTINF:0,IN : ZING UK
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46251.ts
+#EXTINF:0,IN : ZOOM TV
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46249.ts
+#EXTINF:0,IN : ZOOM TV UK
+http://ipserver.online:1453/live/ugurmehmet/RtvQM212v1/46250.ts
